@@ -63,7 +63,7 @@ This is a MEAN stack application for an Admin Dashboard with Analytics & Reporti
 - Access dashboard and user management
 
 ## Screenshots
-(Add screenshots here)
+![alt text](<Screenshot 2026-03-28 192633.png>)
 
 ## Version Details
 - Node.js: 18.17.0
